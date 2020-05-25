@@ -39,15 +39,15 @@ body {
   font-weight: bold;
   font-size: 28px;
   color: white;
-  margin-top: -200px;
-  margin-left: -60px;
+  margin-top: -20%;
+  margin-left: -20%;
 }
 
 .button {
   width: 130px;
   height: 60px;
   padding-top: 10px;
-  margin-right: -100px;
+  margin-right: -20%;
   box-sizing: border-box;
   border: 3px solid white;
   color:white;
@@ -64,16 +64,16 @@ body {
 .image {
   width: 100%;
   display: block;
-  margin: 30px auto 60px;
+  margin: 9% auto 10%;
 }
 
 .advice {
   font-size: 38px;
   font-weight: bold;
   line-height: 1.1;
-  margin-top: 30px;
-  margin-left: -70px;
-  width: 600px;
+  margin-top: 10%;
+  margin-left: -15%;
+  width: 130%;
   text-align: center;
 }
 

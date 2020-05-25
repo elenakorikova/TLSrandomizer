@@ -20,7 +20,7 @@ html {
 body {
   background-color: #4169E1;
   color: #FFA500;
-  max-width: 540px;
+  width: 40%;
   height: 100%;
   margin: 0 auto;
   font-family: 'Suisse';

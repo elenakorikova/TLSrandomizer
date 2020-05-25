@@ -37,14 +37,17 @@ body {
 
 .logo {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 28px;
   color: white;
+  margin-top: -200px;
+  margin-left: -60px;
 }
 
 .button {
   width: 130px;
   height: 60px;
   padding-top: 10px;
+  margin-right: -100px;
   box-sizing: border-box;
   border: 3px solid white;
   color:white;
@@ -61,18 +64,22 @@ body {
 .image {
   width: 100%;
   display: block;
-  margin: 70px auto 60px;
+  margin: 30px auto 60px;
 }
 
 .advice {
-  font-size: 42px;
+  font-size: 38px;
   font-weight: bold;
   line-height: 1.1;
+  margin-top: 30px;
+  margin-left: -70px;
+  width: 600px;
+  text-align: center;
 }
 
 .footer {
   font-size: 14px;
-  margin-top: 70px;
+  margin-top: 50px;
   margin-left: -380px;
   color: white;
 }
